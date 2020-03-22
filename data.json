@@ -1,18 +1,18 @@
 [
     {
-        "date": "2020-01-01",
-        "confirmed": 10,
-        "suspects": 10,
-        "deaths": 10,
+        "date": "2020-01-20",
+        "confirmed": 21,
+        "suspects": 716,
+        "deaths": 1,
         "cured": 0,
         "watched": 0
     },
-    {
-        "date": "2020-01-01",
-        "confirmed": 10,
-        "suspects": 10,
-        "deaths": 10,
+{
+        "date": "2020-01-21",
+        "confirmed": 25,
+        "suspects": 726,
+        "deaths": 1,
         "cured": 0,
-        "watched": 0
-    }
+        "watched": 28139
+    },
 ]
